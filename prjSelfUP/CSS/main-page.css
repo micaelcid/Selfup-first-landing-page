@@ -1,0 +1,265 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* CONTATENAR FONTE EXTERNA */
+	@font-face{
+    font-family: newsgotc;
+    src: url(../font/newsgotc.ttf);}
+
+body, p, h5{
+margin:0;
+padding: 0;
+font-family: newsgotc;
+overflow: hidden;}
+
+
+
+div, .Block, p, .New, .qt-task, table{
+position: absolute;}
+
+.User, .Icon-1, .Block, .Calendar, input[type="checkbox"], .whitecalendar, .whitetrash{
+float: left;}
+
+h1, p, .New, .Dots{
+color:white;}
+
+aside, .Lupa{
+float: left;}
+/* MAIN */
+	main{
+	width: 1024px;
+	height: 768px;
+	position:relative;
+	margin: auto;}
+
+/* PAINEL DO USÁRIO */
+	.Pnl-User{
+	width: 235px;
+	height: 768px;
+	background-color: #4682B4;}
+		
+		/* USER */
+			.User{
+			width: 30%;
+			height: 50px;
+			top: 15px;}
+			
+			/* FOTO DO USUÁRIO */
+				.User-Photo{
+				margin-left: 30px;}
+			
+			/* NOME DO USUÁRIO */
+				.User p{
+				font-size:18px;
+				margin: 5% 30%;}
+
+/* MEUS PROJETOS */
+.MyProjects{
+width: 230px;
+height: 160px;
+margin-top:95px;}
+	 
+	 /* TÍTULO */
+	 	.Title{
+		width: 190px;
+		margin-left: 10%;
+		height: 21px;
+		border-bottom: 2px solid white;
+		padding-bottom: 1%;}
+		
+		/* ICONE 1 */
+		.Icon-1{
+		margin: 4px 6px;}
+		
+		.Title p{
+		font-size: 20px;
+		margin: 0 28px;}
+
+		/* PROJETOS */
+		.Projects{
+		width: 190px;
+		margin: 11% 10%;
+		height: 135px;}
+
+		.Projects section{
+		width: 187px;
+		height:34px;
+		position: relative;}
+
+			/* BLOCO */
+				.Block{
+				width: 16px;
+				height: 16px;
+				background-color: white;
+				margin: 14px 12px;}
+
+			
+		.Projects p{
+		margin: 12px 38px;
+		font-size: 18px;
+		width:82%;}
+
+		.New{
+		margin: 5px 12px;
+		font-size: 20px;
+		}
+
+		/* TRÊS PONTOS */
+				.Dots{
+				}
+
+/* PROJETOS COMPARTILHADOR */
+	.SharedProjects{
+	width: 230px;
+	height: 160px;
+	margin-top:290px;}
+
+		/* TÍTULO */
+	 	.SharedProjects .Title{
+		width: 198px;
+		margin-left: 10%;
+		height: 21px;
+		border-bottom: 2px solid white;
+		padding-bottom: 1%;}
+
+		/* ICONE 2 */
+		.Icon-2{
+		margin: 0 5px;}
+
+		.SharedProjects .Title p{
+		margin: 0 38px;
+		font-size: 20px;
+		width: 86%;}
+
+		.SharedProjects section{
+		width: 190px;}
+
+/* HEADER */
+.Header{
+width: 100%;
+height: 80px;
+background-color: white;}
+	
+	/* LOGOTIPO */
+	.Logotipo{
+	width: 196px;
+	height: 53px;
+	margin-left: 249px;
+	margin-top: 14.5px;}
+	
+	/* BUSCAR TAREFA */
+		.Search{
+		width: 210px;
+		height: 25px;
+		border-radius: 25px;
+		border:1px solid black;
+		margin-left: 560px;
+		margin-top: 28px;}
+		.Lupa{
+		margin: 3px 5px;}
+		h4{
+		margin: 3px 10px;
+		font-size:16px;}
+		
+		/* ICONES */
+			.Icons{
+			width: 157px;
+			height: 65px;
+			margin-left: 867px;
+			position: relative;}
+			.Icons img{
+			margin-top: 28px;
+			margin-left: 20px}
+			
+			/* QUANTIDADE DE TAREFAS */
+			.qt-task{
+			background-color: #F47C57;
+			width:13px;
+			height: 13px;
+			left: 30px;
+			top: 43.5px;}
+			.qt-task h1{
+			font-size: 9px;
+			color: black;
+			text-align:center;
+			margin:0}
+
+/* PRAZOS MAIS PRÓXIMOS */
+table{
+width: 757px;
+height: 141px;
+left:250px;
+top: 95px;
+border-radius: 5px;}
+	table p{
+	color: black;
+	margin-left: 20px;
+	font-size:14px;}
+	table h1{
+	margin: 0;
+	padding:0;
+	font-size: 18px;}
+	.Right{
+	text-align:right; margin-right:10px;}
+	.Beggining{
+	border-radius: 5px 5px 0 0;
+	}
+	.End{
+	border-radius: 0 0 5px 5px;}
+	.Beggining, .End{
+	background-color: #4682B4;}
+	.bg-color1{
+	background-color:#DDDEDD;}
+	td{
+	height: 25px;}
+hr{
+margin-top:232px;
+color: black}
+
+/* BOTÃO ADICIONAR TAREFA */
+.btn-addtask{
+width: 136px;
+height: 30px;
+background-color: #F47C57;
+margin-left: 254px;
+margin-top: 20px;
+border-radius: 5px;}
+
+.btn-addtask p{
+	font-size:18px;
+	left: 8px;
+	top: 3px;}
+
+/* TAREFAS */
+	.tasks{
+	margin-top: 300px;}
+	input[type="checkbox"]{
+	margin-top: 5px;
+	}
+	.tasks p{
+		font-size:16px;
+		color: white;}
+		
+		.progression{
+		width: 146.5px;
+		height: 20px;
+		border-radius: 5px;
+		border: 1px solid black;
+		background-color: white;
+		margin-left: 230px;}
+		.progression p{
+			left: 43px;
+			top: 2px;
+			color: black;
+			font-size:14px;
+			z-index:1;}
+			.up{
+			border-radius: 4.5px 0 0 4.5px;
+			width:73px;
+			height:20px;
+			background-color: #F47C57;}
+			.whitecalendar{
+			margin-left: 520px;
+			margin-top: 5px;}
+			
+			

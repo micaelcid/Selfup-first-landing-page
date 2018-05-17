@@ -1,0 +1,19 @@
+H:\Self UP\Frontend\Site das páginas\prjSelfUP\prjSelfUP\bin\prjSelfUP.dll
+H:\Self UP\Frontend\Site das páginas\prjSelfUP\prjSelfUP\bin\prjSelfUP.pdb
+H:\Self UP\Frontend\Site das páginas\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.dll
+H:\Self UP\Frontend\Site das páginas\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.pdb
+H:\THE LAST\prjSelfUP\prjSelfUP\bin\prjSelfUP.dll
+H:\THE LAST\prjSelfUP\prjSelfUP\bin\prjSelfUP.pdb
+H:\THE LAST\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.dll
+H:\THE LAST\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.pdb
+H:\THE LAST\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.csprojResolveAssemblyReference.cache
+D:\ETEC\2º Módulo\THE LAST\prjSelfUP\prjSelfUP\bin\prjSelfUP.dll
+D:\ETEC\2º Módulo\THE LAST\prjSelfUP\prjSelfUP\bin\prjSelfUP.pdb
+D:\ETEC\2º Módulo\THE LAST\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.csprojResolveAssemblyReference.cache
+D:\ETEC\2º Módulo\THE LAST\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.dll
+D:\ETEC\2º Módulo\THE LAST\prjSelfUP\prjSelfUP\obj\Debug\prjSelfUP.pdb
+D:\Portfólio\Projetos\2017_06_21 - Selfup 1\prjSelfUP\bin\prjSelfUP.dll
+D:\Portfólio\Projetos\2017_06_21 - Selfup 1\prjSelfUP\bin\prjSelfUP.pdb
+D:\Portfólio\Projetos\2017_06_21 - Selfup 1\prjSelfUP\obj\Debug\prjSelfUP.csprojResolveAssemblyReference.cache
+D:\Portfólio\Projetos\2017_06_21 - Selfup 1\prjSelfUP\obj\Debug\prjSelfUP.dll
+D:\Portfólio\Projetos\2017_06_21 - Selfup 1\prjSelfUP\obj\Debug\prjSelfUP.pdb

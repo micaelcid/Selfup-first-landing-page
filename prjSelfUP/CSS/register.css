@@ -1,0 +1,29 @@
+﻿@font-face{
+    font-family: newsgotc;
+    src: url(../font/newsgotc.ttf);}	
+body 
+{
+    margin:0;
+    background-color:#f3f3f3;
+    
+}
+figure{margin:0;padding:0;}
+.Conteudo
+{
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-200px;
+    margin-top:-250px;
+    background-color:White;
+    width:400px;
+    height:500px;
+    box-shadow:0px 0px .2px;
+}
+p{font-family:NewsGoth Cn BT;font-weight:lighter;}
+hr{height:20px;}
+.Faixa{width:100%;height:10px;background-color:#FF7F50;}
+.Logo{position:absolute;left:50%;margin-left:-125px;top:7%;}
+.Título{position:absolute;width:400px;height:100px;left:50%;margin-left:-200px;top:12%;font-size:36px;}
+.TextBox{margin-left:50px;width:300px;padding: 10px 0px;border-radius:10px;text-align:center;font-family:NewsGoth Cn BT;font-size:18px;margin-top:20px; outline:none;}
+.Button{background-color:#FF7F50;font-family:NewsGoth Cn BT;color:White;font-size:20px;}
